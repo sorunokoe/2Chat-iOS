@@ -15,7 +15,7 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.ios.chat.rocket</string>
+		<string>group.kz.tele2.chat</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
